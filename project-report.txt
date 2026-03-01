@@ -1,0 +1,25 @@
+Student Project Report
+
+
+Author: Brother Kovacs
+Project: Tesla Joiner Management OS
+Summary: Final project report documenting 12 hours of development and testing.
+
+            Time Spent
+   Date       (hours)   Description of Work
+----------  ----------  -------------------------
+2026-02-02      1.5     Evening: Researched wood measurement conversions and math.
+2026-02-03      1.5     Evening: Wrote Area_calculator.py and Material_cost.py.
+2026-02-05      1.0     Evening: Developed Cutting_list.py logic and string formatting.
+2026-02-07      4.0     Saturday: Designing diagrams and writing Waste_tracking.py.
+2026-02-09      1.0     Evening: Created test_joiner.py and wrote unit tests.
+2026-02-11      1.0     Evening: Developed Joiner_program.py main menu and UI.
+2026-02-12      0.5     Evening: Debugging code and fixing value errors.
+2026-02-14      1.5     Saturday: Final testing, video walkthrough, and submission.
+----------  ----------  -------------------------
+Total          12.0
+
+
+2. In Canvas, submit this completed text file, your Python program, your
+Python test file, and any project data files such as .txt and .csv files and
+link to video walkthrough if needed.
